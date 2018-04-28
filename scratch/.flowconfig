@@ -1,0 +1,16 @@
+[ignore]
+./build/**/*.js
+./node_modules/**/*.js
+
+[include]
+./src/**/*.js
+
+[libs]
+flow-typed
+
+[lints]
+
+[options]
+all=true
+
+[strict]
